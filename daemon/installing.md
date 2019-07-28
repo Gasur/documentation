@@ -109,6 +109,10 @@ If you are using CentOS, [please follow these instructions](https://nodejs.org/e
 instructions provided by Nodejs](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions).
 :::
 
+::: NodeJS version
+While there are newer versions of NodeJS (eg. version 12), they are not supported and will not work. NodeJS 8 is the only supported version.
+:::
+
 ## Installing Daemon Software
 The first step for installing the daemon is to make sure we have the required directory structure setup. To do so,
 run the commands below.
